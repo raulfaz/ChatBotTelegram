@@ -1,0 +1,20 @@
+# API principal para el bot de Telegram
+python-telegram-bot==20.7
+
+# API de OpenAI para procesar las consultas
+openai==1.6.0
+
+# Manejo de variables de entorno
+python-dotenv==1.0.0
+
+# Logging mejorado (opcional)
+colorlog==6.7.0
+
+# Para solicitudes HTTP (usado internamente)
+requests==2.31.0
+
+# Utilidades para async/await
+asyncio==3.4.3
+
+# Para manejo de fechas y horas
+pytz==2023.3
